@@ -49,4 +49,4 @@ client.on("guildMemberRemove", (member) => {
         Console.log(e);
         }
 });
-client.login("token goes here");
+client.login("NjA3NTQwMDA1NDUxMDcxNDkw.XUbF1Q.fpPPcdg2Udq7ZFENwXqx2Egf8gM");
